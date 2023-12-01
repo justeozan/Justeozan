@@ -1,3 +1,4 @@
+![logo](https://github.com/justeozan/Justeozan/blob/main/Neutral%20Gradient%20Bold%20Minimalist%20Business%20Email%20Signature.png)
 <h1 align="center">Hi 👋, I'm just Ozan</h1>
 <h3 align="center">A passionate of hacker ethics</h3>
 
