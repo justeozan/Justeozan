@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [printf](https://github.com/justeozan/printf)
 
-- 🌱 I’m currently learning **Programs language, cybersecurity and hacker ethic**
+- 🌱 I’m currently learning **Programs language, cybersecurity and hacker ethics**
 
 - 👨‍💻 All of my projects are available at [justeozan.tech](justeozan.tech)
 
