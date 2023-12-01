@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Programs language, cybersecurity and hacker ethics**
 
-- 👨‍💻 All of my projects are available at <a href="https://justeozan.tech" target="blank">justeozan.tech</a><a href="https://linkedin.com/in/juste-ozan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juste-ozan" height="30" width="40" /></a>
+- 👨‍💻 All of my projects are available at <a href="https://justeozan.tech" target="blank">justeozan.tech</a><a href="https://linkedin.com/in/juste-ozan" target="blank">oz</a>
 
 - 💬 Ask me about **C, react, and notion**
 
