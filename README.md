@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm just Ozan</h1>
-<h3 align="center">A passionate of hacker ethics</h3>
+<h3 align="center">I'm passionate about hacker ethics, meaning that I'm curious, strive to be just, and am constantly learning everything</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif">
 
