@@ -18,6 +18,9 @@ I'm passionate about hacker ethics, meaning that I'm curious, strive to be just,
 
 
 
+
+
+
 ### Skills
 
 <p align="left">
