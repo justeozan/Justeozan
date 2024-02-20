@@ -11,7 +11,7 @@ I'm passionate about hacker ethics, meaning that I'm curious, strive to be just,
 *   🌍  I'm based in France
 *   🖥️  See my portfolio at [justeozan.tech](http://justeozan.tech)
 *   ✉️  You can contact me at [justeozan@gmail.com](mailto:justeozan@gmail.com)
-*   🚀  I'm currently working on [printf](http://github.com/justeozan/printf)
+*   🚀  I'm currently working on [fdf](https://github.com/justeozan/fdf)
 *   🧠  I'm learning Cybersecurity, C and React
 *   🤝  I'm open to collaborating on 42 projects or electronics
 *   ⚡  Currently juggling between two schools
