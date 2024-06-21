@@ -16,6 +16,20 @@ I'm passionate about hacker ethics, meaning that I'm curious, strive to be just,
 *   🤝  I'm open to collaborating on 42 projects or electronics
 *   ⚡  Currently juggling between two schools
 
+### Active repos
+<p>
+  <a href="https://github.com/justeozan/philosophers">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=justeozan&repo=philosophers&theme=holi" />
+  </a>
+ <!--
+  <a href="https://github.com/justeozan/main">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=justeozan&theme=holi&hide=contribs,issues&borders=false" />
+  </a>
+  <a href="https://github.com/justeozan/CPP">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=justeozan&repo=CPP&theme=holi" />
+  </a>
+ -->
+</p>
 
 ### 42 Projects
  | Project link | Description |  Languages/Techs | Final grade |
@@ -47,6 +61,15 @@ I'm passionate about hacker ethics, meaning that I'm curious, strive to be just,
 | [cyber_basics]() |Exploration of cybersecurity fundamentals and hacking techniques.| ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF5733?style=flat&logo=security&logoColor=white) ![Hacking](https://img.shields.io/badge/Hacking-1A1A1A?style=flat&logo=hackaday&logoColor=white) | N/20 |
 | [Big_project](https://github.com/justeozan/Big-Project) |The big project of Guardia first end-year, comprehensive project integrating multiple technologies: networks, web development (HTML, CSS, JavaScript), and Python scripting.| ![Networks](https://img.shields.io/badge/Networks-007ACC?style=flat&logo=cisco&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white) | N/20 |
 
+### Guardia Projects
+ | Project link | Description |  Languages/Techs | Date |
+   | :- | :-: | :-: | :-: |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
 <!-- 
 ### Guardia Projects
@@ -76,6 +99,19 @@ I'm passionate about hacker ethics, meaning that I'm curious, strive to be just,
 <p align="left"> <a href="https://discord.com/users/juste_ozan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/justeozan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/juste-ozan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@soon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
 ### GitHub Stats
+ <!--
+<p>
+  <a href="https://github.com/justeozan/philosophers">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=justeozan&repo=philosophers&theme=holi" />
+  </a>
+  <a href="https://github.com/justeozan/main">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=justeozan&theme=holi&hide=contribs,issues&borders=false" />
+  </a>
+  <a href="https://github.com/justeozan/CPP">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=justeozan&repo=CPP&theme=holi" />
+  </a>
+ -->
+</p>
 <a href="http://www.github.com/justeozan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=justeozan&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/justeozan" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justeozan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
