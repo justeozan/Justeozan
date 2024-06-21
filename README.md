@@ -9,8 +9,8 @@ I'm passionate about hacker ethics, meaning that I'm curious, strive to be just,
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif">
 
 *   🌍  I'm based in France
-*   🖥️  See my portfolio at [justeozan.tech](http://justeozan.tech)
-*   ✉️  You can contact me at [justeozan@gmail.com](mailto:justeozan@gmail.com)
+*   🖥️  my portfolio is under construction
+*   ✉️  You can contact me at [philosophers](https://github.com/justeozan/philosophers)
 *   🚀  I'm currently working on [fdf](https://github.com/justeozan/fdf)
 *   🧠  I'm learning Cybersecurity, C and React
 *   🤝  I'm open to collaborating on 42 projects or electronics
@@ -19,7 +19,7 @@ I'm passionate about hacker ethics, meaning that I'm curious, strive to be just,
 ### Active repos
 <p>
   <a href="https://github.com/justeozan/philosophers">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=justeozan&repo=philosophers&theme=holi" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=justeozan&repo=philosophers&theme=holi&hide_border=true" />
   </a>
  <!--
   <a href="https://github.com/justeozan/main">
@@ -61,6 +61,7 @@ I'm passionate about hacker ethics, meaning that I'm curious, strive to be just,
 | [cyber_basics]() |Exploration of cybersecurity fundamentals and hacking techniques.| ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF5733?style=flat&logo=security&logoColor=white) ![Hacking](https://img.shields.io/badge/Hacking-1A1A1A?style=flat&logo=hackaday&logoColor=white) | N/20 |
 | [Big_project](https://github.com/justeozan/Big-Project) |The big project of Guardia first end-year, comprehensive project integrating multiple technologies: networks, web development (HTML, CSS, JavaScript), and Python scripting.| ![Networks](https://img.shields.io/badge/Networks-007ACC?style=flat&logo=cisco&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white) | N/20 |
 
+<!-- 
 ### Personal Projects
  | Project link | Description |  Languages/Techs | Date |
    | :- | :-: | :-: | :-: |
@@ -70,6 +71,7 @@ I'm passionate about hacker ethics, meaning that I'm curious, strive to be just,
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
+-->
 
 <!-- 
 ### Guardia Projects
