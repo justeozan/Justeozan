@@ -18,7 +18,10 @@ I'm passionate about hacker ethics, meaning that I'm curious, strive to be just,
 
 ### Active repos
 <p>
-  <a href="https://github.com/justeozan/philosophers">
+  <a href="https://github.com/justeozan/CPP">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=justeozan&repo=CPP&theme=holi&hide_border=true" />
+  </a>
+  <a href="https://github.com/justeozan/cub3D">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=justeozan&repo=cub3D&theme=holi&hide_border=true" />
   </a>
  <!--
