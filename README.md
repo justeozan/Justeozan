@@ -117,9 +117,17 @@ I'm passionate about hacker ethics, meaning that I'm curious, strive to be just,
   </a>
  -->
 </p>
-<a href="http://www.github.com/justeozan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=justeozan&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=justeozan&theme=holi&show_icons=true&hide_border=true&show=reviews" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justeozan&theme=holi&layout=donut&hide_border=true" />
+</a>
 
+ <!--
+<a href="http://www.github.com/justeozan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=justeozan&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/justeozan" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justeozan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ -->
 
 
 
