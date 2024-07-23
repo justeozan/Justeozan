@@ -45,7 +45,7 @@ I'm passionate about hacker ethics, meaning that I'm curious, strive to be just,
 | [push_swap](https://github.com/justeozan/push_swap) |Sorting algorithms, where data must be sorted into two stacks using a limited set of operations|![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 105/100 |
 | [Minishell](https://github.com/avg38/minishell) |A custom implementation of bash based on the posix version|![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 110/100 |
 | [philosophers](https://github.com/justeozan/philosophers) |Introduction to multithreaded programming and managing synchronization problems, using philosophers who eat, think and sleep.|![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 100/100 |
-| [CPP_modules](https://github.com/justeozan/CPP) |An introduction to networking and IP address| ![C++](https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white)| N/A |
+| [C++ modules](https://github.com/justeozan/CPP) |An introduction to networking and IP address| ![C++](https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white)| N/A |
 
 
 ### Guardia Projects
