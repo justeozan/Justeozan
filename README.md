@@ -39,13 +39,14 @@ I'm passionate about hacker ethics, meaning that I'm curious, strive to be just,
   | :- | :-: | :-: | :-: |
 | [libft](https://github.com/justeozan/libft) |Creation of a library with various functions| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white) | 125/100 |
 | [ft_printf](https://github.com/justeozan/printf) |Custom printf function| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 100/100|
-| [get_next_line](https://github.com/justeozan/get_next_line) |A C function to get lines from a file descriptor using a buffer size|![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 125/100 |
-| [FdF](https://github.com/justeozan/fdf) |Graphics programming to create a 3D wireframe visualization of a map, using the miniLibX library.|![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 125/100 |
-| [minitalk](https://github.com/justeozan/minitalk) |Introduction to inter-process communication, using UNIX signals to exchange messages between two programs.|![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 125/100 |
-| [push_swap](https://github.com/justeozan/push_swap) |Sorting algorithms, where data must be sorted into two stacks using a limited set of operations|![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 105/100 |
-| [Minishell](https://github.com/avg38/minishell) |A custom implementation of bash based on the posix version|![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 110/100 |
-| [philosophers](https://github.com/justeozan/philosophers) |Introduction to multithreaded programming and managing synchronization problems, using philosophers who eat, think and sleep.|![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 100/100 |
-| [C++ modules](https://github.com/justeozan/CPP) |An introduction to networking and IP address| ![C++](https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white)| N/A |
+| [get_next_line](https://github.com/justeozan/get_next_line) |A C function to get lines from a file descriptor using a buffer size| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 125/100 |
+| [FdF](https://github.com/justeozan/fdf) |Graphics programming to create a 3D wireframe visualization of a map, using the miniLibX library.| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 125/100 |
+| [minitalk](https://github.com/justeozan/minitalk) |Introduction to inter-process communication, using UNIX signals to exchange messages between two programs.| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 125/100 |
+| [push_swap](https://github.com/justeozan/push_swap) |Sorting algorithms, where data must be sorted into two stacks using a limited set of operations| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 105/100 |
+| [Minishell](https://github.com/avg38/minishell) |A custom implementation of bash based on the posix version| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 110/100 |
+| [philosophers](https://github.com/justeozan/philosophers) |Introduction to multithreaded programming and managing synchronization problems, using philosophers who eat, think and sleep.| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 100/100 |
+| [C++ modules](https://github.com/justeozan/CPP) |An introduction to C++ programming| ![C++](https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white)| N/A |
+| [cub3D](https://github.com/justeozan/cub3D) |Creation of a 3D game engine using raycasting| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| N/A |
 
 
 ### Guardia Projects
