@@ -21,9 +21,9 @@ I'm passionate about hacker ethics, meaning that I'm curious, strive to be just,
   <a href="https://github.com/justeozan/CPP">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=justeozan&repo=CPP&theme=holi&hide_border=true" />
   </a>
-  <a href="https://github.com/justeozan/cub3D">
+<!--   <a href="https://github.com/justeozan/cub3D">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=justeozan&repo=cub3D&theme=holi&hide_border=true" />
-  </a>
+  </a> -->
  <!--
   <a href="https://github.com/justeozan/main">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=justeozan&theme=holi&hide=contribs,issues&borders=false" />
@@ -45,8 +45,8 @@ I'm passionate about hacker ethics, meaning that I'm curious, strive to be just,
 | [push_swap](https://github.com/justeozan/push_swap) |Sorting algorithms, where data must be sorted into two stacks using a limited set of operations| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 105/100 |
 | [Minishell](https://github.com/avg38/minishell) |A custom implementation of bash based on the posix version| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 110/100 |
 | [philosophers](https://github.com/justeozan/philosophers) |Introduction to multithreaded programming and managing synchronization problems, using philosophers who eat, think and sleep.| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 100/100 |
+| [cub3D](https://github.com/justeozan/cub3D) |Creation of a 3D game engine using raycasting| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 103/100 |
 | [C++ modules](https://github.com/justeozan/CPP) |An introduction to C++ programming| ![C++](https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white)| N/A |
-| [cub3D](https://github.com/justeozan/cub3D) |Creation of a 3D game engine using raycasting| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| N/A |
 
 
 ### Guardia Projects
