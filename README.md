@@ -47,6 +47,8 @@ I'm passionate about hacker ethics, meaning that I'm curious, strive to be just,
 | [philosophers](https://github.com/justeozan/philosophers) |Introduction to multithreaded programming and managing synchronization problems, using philosophers who eat, think and sleep.| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 100/100 |
 | [cub3D](https://github.com/justeozan/cub3D) |Creation of a 3D game engine using raycasting| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 103/100 |
 | [C++ modules](https://github.com/justeozan/CPP) |An introduction to C++ programming| ![C++](https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white)| N/A |
+| [Inception](https://github.com/justeozan/CPP) |42 project building a Docker-based infrastructure with Nginx, WordPress, MariaDB, using custom configurations and Docker Compose.| ![Docker](https://custom-icon-badges.demolab.com/badge/Docker-2496ED.svg?logo=docker&logoColor=white) ![Nginx](https://custom-icon-badges.demolab.com/badge/Nginx-009639.svg?logo=nginx&logoColor=white) ![WordPress](https://custom-icon-badges.demolab.com/badge/WordPress-21759B.svg?logo=wordpress&logoColor=white) ![MariaDB](https://custom-icon-badges.demolab.com/badge/MariaDB-003545.svg?logo=mariadb&logoColor=white) | N/A |
+
 
 
 ### Guardia Projects
