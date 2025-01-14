@@ -12,9 +12,8 @@ I'm passionate about hacker ethics, meaning that I'm curious, strive to be just,
 *   🖥️  my portfolio is under construction
 *   ✉️  You can contact me at justeozan@gmail.com
 *   🚀  I'm currently working on [CPP](https://github.com/justeozan/CPP)
-*   🧠  I'm learning Cybersecurity, C and React
-*   🤝  I'm open to collaborating on 42 projects or electronics
-*   ⚡  Currently juggling between two schools
+*   🧠  I'm learning Cybersecurity, Development
+*   🤝  I'm open to collaborating on techs projects
 
 ### Active repos
 <p>
@@ -37,15 +36,15 @@ I'm passionate about hacker ethics, meaning that I'm curious, strive to be just,
 ### 42 Projects
  | Project link | Description |  Languages/Techs | Final grade |
   | :- | :-: | :-: | :-: |
-| [libft](https://github.com/justeozan/libft) |Creation of a library with various functions| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white) | 125/100 |
-| [ft_printf](https://github.com/justeozan/printf) |Custom printf function| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 100/100|
-| [get_next_line](https://github.com/justeozan/get_next_line) |A C function to get lines from a file descriptor using a buffer size| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 125/100 |
+| [Libft](https://github.com/justeozan/libft) |Creation of a library with various functions| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white) | 125/100 |
+| [Ft_printf](https://github.com/justeozan/printf) |Custom printf function| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 100/100|
+| [Get_next_line](https://github.com/justeozan/get_next_line) |A C function to get lines from a file descriptor using a buffer size| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 125/100 |
 | [FdF](https://github.com/justeozan/fdf) |Graphics programming to create a 3D wireframe visualization of a map, using the miniLibX library.| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 125/100 |
-| [minitalk](https://github.com/justeozan/minitalk) |Introduction to inter-process communication, using UNIX signals to exchange messages between two programs.| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 125/100 |
-| [push_swap](https://github.com/justeozan/push_swap) |Sorting algorithms, where data must be sorted into two stacks using a limited set of operations| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 105/100 |
+| [Minitalk](https://github.com/justeozan/minitalk) |Introduction to inter-process communication, using UNIX signals to exchange messages between two programs.| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 125/100 |
+| [Push_swap](https://github.com/justeozan/push_swap) |Sorting algorithms, where data must be sorted into two stacks using a limited set of operations| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 105/100 |
 | [Minishell](https://github.com/avg38/minishell) |A custom implementation of bash based on the posix version| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 110/100 |
-| [philosophers](https://github.com/justeozan/philosophers) |Introduction to multithreaded programming and managing synchronization problems, using philosophers who eat, think and sleep.| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 100/100 |
-| [cub3D](https://github.com/justeozan/cub3D) |Creation of a 3D game engine using raycasting| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 103/100 |
+| [Philosophers](https://github.com/justeozan/philosophers) |Introduction to multithreaded programming and managing synchronization problems, using philosophers who eat, think and sleep.| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 100/100 |
+| [Cub3D](https://github.com/justeozan/cub3D) |Creation of a 3D game engine using raycasting| ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)| 103/100 |
 | [C++ modules](https://github.com/justeozan/CPP) |An introduction to C++ programming| ![C++](https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white)| N/A |
 | [Inception](https://github.com/justeozan/CPP) |42 project building a Docker-based infrastructure with Nginx, WordPress, MariaDB, using custom configurations and Docker Compose.| ![Docker](https://custom-icon-badges.demolab.com/badge/Docker-2496ED.svg?logo=docker&logoColor=white) ![Nginx](https://custom-icon-badges.demolab.com/badge/Nginx-009639.svg?logo=nginx&logoColor=white) ![WordPress](https://custom-icon-badges.demolab.com/badge/WordPress-21759B.svg?logo=wordpress&logoColor=white) ![MariaDB](https://custom-icon-badges.demolab.com/badge/MariaDB-003545.svg?logo=mariadb&logoColor=white) | 105/100 |
 | [Webserv](https://github.com/bastpoy/webserv) | A lightweight web server implemented in C++98, handling HTTP requests with CGI support. | ![HTML](https://custom-icon-badges.demolab.com/badge/HTML-E34F26.svg?logo=html5&logoColor=white) ![CSS](https://custom-icon-badges.demolab.com/badge/CSS-1572B6.svg?logo=css3&logoColor=white) ![C++](https://custom-icon-badges.demolab.com/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white) ![Config](https://custom-icon-badges.demolab.com/badge/Config-FFD700.svg?logo=gear&logoColor=white) | 125/100 |
