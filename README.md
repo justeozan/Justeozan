@@ -6,8 +6,9 @@ Developer - Webmaster - Ethical Hacker
 
 I'm passionate about hacker ethics, meaning that I'm curious, strive to be just, and am constantly learning everything
 
+<!--
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif">
-
+-->
 *   🌍  I'm based in France
 *   🖥️  my portfolio is under construction
 *   ✉️  You can contact me at justeozan@gmail.com
