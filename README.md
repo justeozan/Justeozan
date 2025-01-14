@@ -12,8 +12,8 @@ I'm passionate about hacker ethics, meaning that I'm curious, strive to be just,
 *   🖥️  my portfolio is under construction
 *   ✉️  You can contact me at justeozan@gmail.com
 *   🚀  I'm currently working on [CPP](https://github.com/justeozan/CPP)
-*   🧠  I'm learning Cybersecurity, Development
-*   🤝  I'm open to collaborating on techs projects
+*   🧠  I'm learning Cybersecurity
+*   🤝  If you want, you can [see all my projects](PROJECTS.md)
 
 ### Active repos
 <p>
