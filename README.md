@@ -1,4 +1,4 @@
-Hi ![https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://github.com/justeozan/Justeozan/blob/main/stars-40px.gif) I'm just Ozan
+Hi I'm just Ozan
 ============================================================================================================================
 
 Developer - Webmaster - Ethical Hacker
