@@ -1,10 +1,10 @@
 Hi I'm just Ozan
 ============================================================================================================================
 
-Developer - Webmaster - Ethical Hacker
---------------------------------------
+Developer - Webmaster - Product Designer
+----------------------------------------
 
-I'm passionate about hacker ethics, meaning that I'm curious, strive to be just, and am constantly learning everything
+I'm curious, strive to be just, and am constantly learning everything
 
 <!--
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif">
@@ -12,8 +12,7 @@ I'm passionate about hacker ethics, meaning that I'm curious, strive to be just,
 *   🌍  I'm based in France
 *   🖥️  my portfolio is under construction
 *   ✉️  You can contact me at justeozan@gmail.com
-*   🚀  I'm currently working on [CPP](https://github.com/justeozan/CPP)
-*   🧠  I'm learning Cybersecurity
+*   🚀  I'm currently working on my own Application
 *   🤝  If you want, you can [see all my projects](PROJECTS.md)
 
 ### Active repos
